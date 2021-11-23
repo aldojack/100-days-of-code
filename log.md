@@ -1,30 +1,40 @@
+<!-- Daily Template
+### Day x: Date
+
+**Today's Progress**:   
+
+**Thoughts:** 
+
+**Link to work:** 
+
+**Today's Tweet:** [View]()
+___
+ -->
+
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: Monday 22nd, 2021 (Introduction Day)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Today I decided to commit to 100 days of code, I had a jQuery assessment today which took up most of coding time for the day.  
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+Despite jQuery not being as popular as once was I have found it useful to learn.  I felt something click when trying to get properties of an object and also got a boost of not giving up despite a short time window to solve and submit my work.  
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Thoughts:** I felt OK today despite having 2 assessments today, I felt confident on my knowledge of jquery and that I could overcome any task, afterwards I was quite proud as feel I did well and hopefully earn an A for the Unit.  
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Link to work:** No work to submit.  
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Tweet:** [View](https://twitter.com/MrAldoJack/status/1462806247816708108)
+___
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+### Day 2: Tuesday 23nd, 2021 
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Today's Progress**:   
+
+**Thoughts:** 
+
+**Link to work:** 
+
+**Today's Tweet:** [View]()
 
 
-### Day 1: June 27, Monday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
