@@ -1,4 +1,5 @@
 <!-- Daily Template
+
 ### Day x: Date
 
 **Today's Progress**:   
@@ -9,6 +10,7 @@
 
 **Today's Tweet:** [View]()
 ___
+
  -->
 
 # 100 Days Of Code - Log
@@ -35,6 +37,16 @@ ___
 **Link to work:** https://aldojack.github.io/Dice-Game/
 
 **Today's Tweet:** [View](https://twitter.com/MrAldoJack/status/1463300598498050053)
+___
 
+### Day 3: Wednesday 24th 2021
 
+**Today's Progress**:   
+
+**Thoughts:** Feeling motivated to finish of the Dice Game before the afternoon before my e-reader arrives as will need to set that up and revise and take notes on it for Database Application test in 2 weeks.  Possibley look into finishing some javascript from Frontend Masters or Codecademy later this afternoon/evening.  
+
+**Link to work:** 
+
+**Today's Tweet:** [View]()
+___
 
