@@ -1,4 +1,4 @@
-### Day 1: Monday 22nd, 2021 (Introduction Day)
+### Day 1: Monday 22nd 2021 (Introduction Day)
 
 **Today's Progress**: Today I decided to commit to 100 days of code, I had a jQuery assessment today which took up most of coding time for the day.  
 

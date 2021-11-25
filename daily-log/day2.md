@@ -1,4 +1,4 @@
-### Day 2: Tuesday 23nd, 2021 
+### Day 2: Tuesday 23nd 2021 
 
 **Today's Progress**:   Today I started Scrimbas Dice game after work, made some tweaks on my own to branch into classes whilst still trying to keep the code DRY, stil got some work to do tomorrow.  
 
