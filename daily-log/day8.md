@@ -10,6 +10,6 @@
 
 [Code: ](https://github.com/aldojack/Snake-Game)
 
-**Today's Tweet:** [View]()
+**Today's Tweet:** [View](https://twitter.com/MrAldoJack/status/1465232381430964227)
 
 [Back to log](/log.md)
