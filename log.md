@@ -27,9 +27,9 @@ ___
 - [Day 9](/daily-log/day9.md)
 - [Day 10](/daily-log/day10.md)
 - [Day 11](/daily-log/day11.md)
-<!--
 - [Day 12](/daily-log/day12.md)
 - [Day 13](/daily-log/day13.md)
+<!--
 - [Day 14](/daily-log/day14.md)
 - [Day 15](/daily-log/day15.md)
 - [Day 16](/daily-log/day16.md)
