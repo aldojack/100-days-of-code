@@ -1,4 +1,4 @@
-### Day 12: Friday 2nd 2021
+### Day 12: Friday 3rd 2021
 
 **Today's Progress**:   
 
