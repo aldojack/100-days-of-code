@@ -35,7 +35,6 @@ ___
 - [Day 17](/daily-log/day17.md)
 - [Day 18](/daily-log/day18.md)
 - [Day 19](/daily-log/day19.md)
-<!--
 - [Day 20](/daily-log/day20.md)
 - [Day 21](/daily-log/day21.md)
 - [Day 22](/daily-log/day22.md)
@@ -47,6 +46,7 @@ ___
 - [Day 28](/daily-log/day28.md)
 - [Day 29](/daily-log/day29.md)
 - [Day 30](/daily-log/day30.md)
+<!--
 - [Day 31](/daily-log/day31.md)
 - [Day 32](/daily-log/day32.md)
 - [Day 33](/daily-log/day33.md)
