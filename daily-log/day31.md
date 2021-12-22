@@ -1,6 +1,6 @@
 ### Day 31: Wednesday 22nd 2021
 
-**Today's Progress**:   So today I managed to finish off the "stepping up style" project
+**Today's Progress**:   So today I managed to finish off the "stepping up style" project.  Made a start on JS challenge but didn't finish it will carry over my tasks for tomorrow.  
 
 **Todays Goals:** 
 - ~~Finish Scrimba BBQ landing page~~
