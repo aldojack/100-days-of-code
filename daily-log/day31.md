@@ -1,17 +1,16 @@
 ### Day 31: Wednesday 22nd 2021
 
-**Today's Progress**:   
+**Today's Progress**:   So today I managed to finish off the "stepping up style" project
 
 **Todays Goals:** 
-- Test a
-- Test b
+- ~~Finish Scrimba BBQ landing page~~
+- x1 Flexbox Zombie Game
+- Make Scrimba BBQ interactive
+- Scrimba JS challenge
 
-**Link to work:** 
+**Links** 
 
-[**Github Pages**](https://scrimba.com/scrim/co434468dafa5e7c135db6b17)
+[**Github Pages**]() | [**Github Code**]() | [**Today's Tweet**]()
 
-[**Github Code**](https://github.com/aldojack/Speedometer)
-
-[**Today's Tweet**](https://twitter.com/MrAldoJack/status/1473226820501843970)
 
 [Back to log](/log.md)
