@@ -10,7 +10,7 @@
 
 **Links** 
 
-[**Github Pages**]() | [**Github Code**]() | [**Today's Tweet**]()
+[**Github Pages**](https://aldojack.github.io/BBQ-Page/) | [**Github Code**](https://github.com/aldojack/BBQ-Page) | [**Today's Tweet**](https://twitter.com/MrAldoJack/status/1473783963139387398)
 
 
 [Back to log](/log.md)
