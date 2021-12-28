@@ -49,11 +49,11 @@ ___
 - [Day 31](/daily-log/day31.md)
 - [Day 32](/daily-log/day32.md)
 - [Day 33](/daily-log/day33.md)
-<!--
-- [Day 34](/daily-log/day34.md)
-- [Day 35](/daily-log/day35.md)
-- [Day 36](/daily-log/day36.md)
+- Day 34 - No log
+- Day 35 - No log
+- Day 36 - No log
 - [Day 37](/daily-log/day37.md)
+<!--
 - [Day 38](/daily-log/day38.md)
 - [Day 39](/daily-log/day39.md)
 - [Day 40](/daily-log/day40.md)
