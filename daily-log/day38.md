@@ -3,12 +3,11 @@
 **Today's Progress**:So got a bit more practice with deconstructing objects was starting to make sense a bit more especially within the parameter of a function.  Also got some insight into spread operator
 
 **Todays Goals:** 
-- Continue JS learning, more into deconstructing objects
-- Flex Zombies
+- ~~Continue JS learning, more into deconstructing objects~~
 
-**Links** 
+<!-- **Links** 
 
-[**Github Pages**](https://aldojack.github.io/BBQ-Page/) | [**Github Code**](https://github.com/aldojack/BBQ-Page)
+[**Github Pages**](https://aldojack.github.io/BBQ-Page/) | [**Github Code**](https://github.com/aldojack/BBQ-Page) -->
 
 
 [Back to log](/log.md)
