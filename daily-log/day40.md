@@ -5,9 +5,9 @@
 **Todays Goals:** 
 - Continue JS challenges to test logic and problem solving
 
-<!-- **Links** 
+**Links** 
 
-[**Github Pages**](https://aldojack.github.io/BBQ-Page/) | [**Github Code**](https://github.com/aldojack/BBQ-Page) -->
+[**Daily Tweet**](https://twitter.com/MrAldoJack/status/1477011386555326473)
 
 
 [Back to log](/log.md)
