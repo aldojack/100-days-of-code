@@ -57,8 +57,8 @@ ___
 - Day 39 - No log
 - [Day 40](/daily-log/day40.md)
 - [Day 41](/daily-log/day41.md)
-<!--
 - [Day 42](/daily-log/day42.md)
+<!--
 - [Day 43](/daily-log/day43.md)
 - [Day 44](/daily-log/day44.md)
 - [Day 45](/daily-log/day45.md)
