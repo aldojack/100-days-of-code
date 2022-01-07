@@ -61,9 +61,9 @@ ___
 - [Day 43](/daily-log/day43.md)
 - [Day 44](/daily-log/day44.md)
 - [Day 45](/daily-log/day45.md)
-<!--
-- [Day 46](/daily-log/day46.md)
+- Day 46 - No log
 - [Day 47](/daily-log/day47.md)
+<!--
 - [Day 48](/daily-log/day48.md)
 - [Day 49](/daily-log/day49.md)
 - [Day 50](/daily-log/day50.md)
