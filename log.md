@@ -66,12 +66,12 @@ ___
 - Day 48 - No log
 - [Day 49](/daily-log/day49.md)
 - [Day 50](/daily-log/day50.md)
-<!--
 - [Day 51](/daily-log/day51.md)
 - [Day 52](/daily-log/day52.md)
-- [Day 53](/daily-log/day53.md)
-- [Day 54](/daily-log/day54.md)
+- Day 53 - No log
+- Day 54 - No log
 - [Day 55](/daily-log/day55.md)
+<!--
 - [Day 56](/daily-log/day56.md)
 - [Day 57](/daily-log/day57.md)
 - [Day 58](/daily-log/day58.md)
